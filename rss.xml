@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Trudy Graham]]></title>
         <description><![CDATA[Trudy Graham]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trudy-graham/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 04:57:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 05:09:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trudy-graham/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>I'm just messing around with my new website built with AI at The Grid. Here's to artificial intelligence!</p></article>]]></description>
+            <link>https://thegrid.ai/trudy-graham/welcome/index.html</link>
+            <guid isPermaLink="false">304fb51c-326b-42da-9709-5049e96898c6</guid>
+            <pubDate>Tue, 05 Jan 2016 05:09:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I'm just messing around with my new AI designed website at The Grid. Here's to artificial intelligence.</p>]]></description>
-            <link>undefined07245d3d-93a9-4863-994a-f37d1d3fe20c/index.html</link>
+            <link>https://thegrid.ai/trudy-graham/07245d3d-93a9-4863-994a-f37d1d3fe20c/index.html</link>
             <guid isPermaLink="false">07245d3d-93a9-4863-994a-f37d1d3fe20c</guid>
             <pubDate>Tue, 05 Jan 2016 04:57:35 GMT</pubDate>
         </item>
